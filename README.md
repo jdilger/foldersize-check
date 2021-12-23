@@ -1,6 +1,6 @@
 # `foldersize.py`
 
-quickly check a folders file size, and optionally export the top 10 largest files.
+quickly check a folders file size, and optionally print out the top 10 largest files.
     
 
 **Usage**:
